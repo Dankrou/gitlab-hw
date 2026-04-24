@@ -39,9 +39,13 @@ sudo systemctl enable zabbix-server apache2
 
 `Скриншот раздела Monitoring > Latest data для обоих хостов, где видны поступающие от агентов данные`
 `Для zabbix server`
+
 ![Скриншот Для zabbix server](img/zd2_2.png)`
+
 `Для второго сервера`
+
 ![Скриншот Для второго сервера](img/zd2_3.png)`
+
 
 `Текст использованных команд в GitHub`
 `На zabbix server`
